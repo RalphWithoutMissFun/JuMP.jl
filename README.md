@@ -2,7 +2,7 @@ JuMP
 ====
 
 JuMP is a domain-specific modeling language for **[mathematical optimization]**
-embedded in **[Julia]**. It currently supports a number of open-source and
+embedded in **[Julia]**. It currently supports a number of open-source and 
 commercial solvers ([Artelys Knitro], [BARON], [Bonmin], [Cbc], [Clp], [Couenne], [CPLEX], [ECOS], [FICO Xpress], [GLPK],
 [Gurobi], [Ipopt], [MOSEK], [NLopt], [SCS]) for a variety of problem classes, including
 **[linear programming]**, **[(mixed) integer programming]**,
@@ -134,5 +134,7 @@ For an earlier work where we presented a prototype implementation of JuMP, see [
     year = {2015},
     doi = {10.1287/ijoc.2014.0623},
     }
+    
+  
 
 A preprint of this paper is also [freely available](http://arxiv.org/abs/1312.1431).
